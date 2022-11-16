@@ -3,6 +3,16 @@
     margin: 0;
 }
 
+.primary {
+    width: 99px;
+    height: 27px;
+    background: orange;
+    border: 1px solid orange;
+    border-radius: 7px;
+    cursor: pointer;
+    color: black;
+}
+
 .main-container {
     height: 96vh;
     width: 99%;
