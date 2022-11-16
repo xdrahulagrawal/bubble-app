@@ -18,7 +18,6 @@ function App() {
   }
 
   const _handleRedoBtn = () => {
-    console.log('asdf');
     const newPopped = [...popped]
     const poppedPoint = newPopped.pop();
     if (!poppedPoint) return
